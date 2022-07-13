@@ -1,2 +1,2 @@
 # hackosphere.org
-a community driven organization under hackosphere.com
+a community driven ORGanization under hackosphere.com
